@@ -1,0 +1,37 @@
+body{
+	background-color: #bbfdf7;
+}
+
+.container{
+	width: 100%;
+    margin-top: 10%;
+}
+
+.title-box{
+	width: 400px;
+	height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.title{
+	color: white;
+	font-size: 40px;
+	letter-spacing: 3px;
+}
+
+.button-group{
+	margin: 10px auto;
+    text-align: center;
+}
+
+.btn{
+	cursor: pointer;
+	padding: 10px;
+    background-color: #58f345;
+    font-weight: bold;
+}
