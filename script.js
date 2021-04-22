@@ -1,5 +1,3 @@
-//alert("estoy usando este script!");
-
 function AddClass(){
 	console.log("Boton ADD");
 }
